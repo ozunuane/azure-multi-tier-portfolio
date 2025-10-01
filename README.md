@@ -18,3 +18,8 @@ After you configure authentication with Azure, just init and apply (no inputs ar
 
 
 
+## Network Diagram
+
+![Network Architecture Diagram](networkdiagram.png)
+
+
